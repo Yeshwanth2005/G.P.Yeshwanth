@@ -1,0 +1,43 @@
+body{
+    background-color:lightgreen ;
+}
+h1{
+    color:black;
+}
+h3{
+    color: black;
+}
+.uni img{
+width: 30px;
+height: 30px;
+border-radius: 50%;
+
+}
+.uni .di img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.hi{
+    border: 20px;
+    background-color: gray;
+    
+    width: 500px ;
+    height: 5px;
+}
+.ye img{
+    border: 5px solid black;
+    position:fixed;
+    background-position-x: center;
+    background-position-y:center ;
+    
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+.ye .dis{
+    
+    background-position-x:right ;
+    text-align: right;
+}
